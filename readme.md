@@ -1,9 +1,9 @@
 <h1 align="center">Hello!</h1>
 <h3 align="center">Industrial Designer & Software Developer</h3>
 
-<a href="https://github.com/nachopaezz">![Ignacio Páez](./GitHub.jpg)</a>
+<a href="https://github.com/nachopaezz">(./GitHub.jpg)</a>
 
-![](https://raw.githubusercontent.com/MThakkar121/Profile_Overview/master/wave.gif)
+<!-- ![](https://raw.githubusercontent.com/MThakkar121/Profile_Overview/master/wave.gif) -->
 
 <h1>
   Hi there ― <br>
