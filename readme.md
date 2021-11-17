@@ -1,7 +1,8 @@
 <h1 align="center">Hello!</h1>
 
+![wave](https://user-images.githubusercontent.com/76179696/142251990-4fe9a8e8-43e8-45f6-b12c-f4bb942c7f1d.gif) 
 <h1>
-  Hi there! ![wave](https://user-images.githubusercontent.com/76179696/142251990-4fe9a8e8-43e8-45f6-b12c-f4bb942c7f1d.gif) <br>
+  Hi there!<br>
   my name is <b>Ignacio</b>, <br>
   <b>Industrial Designer, Software Developer</b>, and <b>Maker</b> based in <b>Argentina</b>.
 </h1>
@@ -14,4 +15,6 @@
   or check out my latest works on
   <a href="https://www.youtube.com/channel/UCtGBCJyVTTrEOJK3pSUXQIw">YouTube</a> and <a href="https://www.behance.net/ignaciopaez">Behance</a>.
 </h3>
+
+![dino](https://user-images.githubusercontent.com/76179696/142251827-6b6c4dd8-2ba5-4f18-8600-1789761ab093.gif)
 
