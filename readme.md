@@ -3,8 +3,6 @@
 
 <a>![Ignacio Páez](/githubprofile.png)</a>
 
-![](https://raw.githubusercontent.com/nachopaezz/Profile_Overview/master/GitHub.jpg)
-
 <h1>
   Hi there ― <br>
   my name is Ignacio, <br>
