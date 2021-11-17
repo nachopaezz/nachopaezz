@@ -1,7 +1,7 @@
-<h1 align="center">Hello I'm Ignacio</h1>
+<h1 align="center">Hello!</h1>
 <h3 align="center">Industrial Designer & Software Developer</h3>
 
-[![MasterHead](Imagen GitHub.jpg)]
+<a href="https://github.com/nachopaezz">![Ignacio Páez](./GitHub.jpg)</a>
 
 ![](https://raw.githubusercontent.com/MThakkar121/Profile_Overview/master/wave.gif)
 
