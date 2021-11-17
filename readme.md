@@ -3,7 +3,7 @@
 
 <a>![Ignacio Páez](/githubprofile.png)</a>
 
-<!-- ![](https://raw.githubusercontent.com/MThakkar121/Profile_Overview/master/wave.gif) -->
+![](https://raw.githubusercontent.com/nachopaezz/Profile_Overview/master/GitHub.jpg)
 
 <h1>
   Hi there ― <br>
