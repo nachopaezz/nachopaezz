@@ -1,7 +1,7 @@
 <h1 align="center">Hello I'm Ignacio</h1>
 <h3 align="center">Industrial Designer & Software Developer</h3>
 
-[![MasterHead](Imagen GitHub.png)]
+[![MasterHead](Imagen GitHub.jpg)]
 
 ![](https://raw.githubusercontent.com/MThakkar121/Profile_Overview/master/wave.gif)
 
