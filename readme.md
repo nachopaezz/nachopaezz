@@ -3,6 +3,10 @@
 
 <a>![Ignacio Páez](/githubprofile.png)</a>
 
+<p align="center">
+  <img src="githubprofile.png" width="350" title="hover text">
+</p>
+
 <h1>
   Hi there ― <br>
   my name is Ignacio, <br>
