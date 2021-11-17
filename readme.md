@@ -1,11 +1,7 @@
 <h1 align="center">Hello!</h1>
 <h3 align="center">Industrial Designer & Software Developer</h3>
 
-<a>![Ignacio Páez](/githubprofile.png)</a>
-
-<p align="center">
-  <img src="githubprofile.png" width="350" title="hover text">
-</p>
+![Imagen GitHub](https://user-images.githubusercontent.com/76179696/142248946-ed9910f3-41b9-4e10-a1c4-cff7eb3d5f73.jpg)
 
 <h1>
   Hi there ― <br>
