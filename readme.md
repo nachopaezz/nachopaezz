@@ -18,3 +18,9 @@
 
 ![dino](https://user-images.githubusercontent.com/76179696/142251827-6b6c4dd8-2ba5-4f18-8600-1789761ab093.gif)
 
+<h3>
+  Check out my latest projects!
+</h3>
+
+[![Alt text](https://img.youtube.com/vi/5VMTbRyuX78/0.jpg)](https://www.youtube.com/watch?v=configuroweb)
+[![Alt text](https://img.youtube.com/vi/FpTWR8ZcKKo/0.jpg)](https://www.youtube.com/watch?v=configuroweb)
