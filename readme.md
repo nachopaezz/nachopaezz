@@ -22,5 +22,10 @@
   Check out my latest projects!
 </h3>
 
+<h4>Countries Hub - Individual Project</h4>
+
 [![Alt text](https://img.youtube.com/vi/5VMTbRyuX78/0.jpg)](https://www.youtube.com/watch?v=configuroweb)
+
+<h4>Henry Kids- Group Project</h4>
+
 [![Alt text](https://img.youtube.com/vi/FpTWR8ZcKKo/0.jpg)](https://www.youtube.com/watch?v=configuroweb)
