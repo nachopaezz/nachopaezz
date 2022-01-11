@@ -22,10 +22,10 @@
   Check out my latest projects!
 </h3>
 
-<h4>Countries Hub - Individual Project</h4>
+<h4><b>Individual Project</b> <a href="https://www.youtube.com/watch?v=5VMTbRyuX78">Countries Hub</a></h4>
 
 [![Alt text](https://img.youtube.com/vi/5VMTbRyuX78/0.jpg)](https://www.youtube.com/watch?v=5VMTbRyuX78)
 
-<h4>Henry Kids- Group Project</h4>
+<h4><b>Group Project</b> <a href="https://www.youtube.com/watch?v=FpTWR8ZcKKo">Henry Kids</a></h4>
 
 [![Alt text](https://img.youtube.com/vi/FpTWR8ZcKKo/0.jpg)](https://www.youtube.com/watch?v=FpTWR8ZcKKo)
