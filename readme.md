@@ -3,7 +3,7 @@
 ![wave](https://user-images.githubusercontent.com/76179696/142251990-4fe9a8e8-43e8-45f6-b12c-f4bb942c7f1d.gif) 
 <h1>
   Hi there!<br>
-  my name is <a href="ignaciopaez.vercel.app/">Ignacio</a>, <br>
+  my name is <a href="https://ignaciopaez.vercel.app/">Ignacio</a>, <br>
   <b>Software Developer, Industrial Designer</b>, and <b>Maker</b> based in <b>Argentina</b>.
 </h1>
 
