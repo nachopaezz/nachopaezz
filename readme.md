@@ -3,8 +3,8 @@
 ![wave](https://user-images.githubusercontent.com/76179696/142251990-4fe9a8e8-43e8-45f6-b12c-f4bb942c7f1d.gif) 
 <h1>
   Hi there!<br>
-  my name is <b>Ignacio</b>, <br>
-  <b>Industrial Designer, Software Developer</b>, and <b>Maker</b> based in <b>Argentina</b>.
+  my name is <b href="ignaciopaez.vercel.app/">Ignacio</b>, <br>
+  <b>Software Developer, Industrial Designer</b>, and <b>Maker</b> based in <b>Argentina</b>.
 </h1>
 
 ![Imagen GitHub](https://user-images.githubusercontent.com/76179696/142248946-ed9910f3-41b9-4e10-a1c4-cff7eb3d5f73.jpg)
