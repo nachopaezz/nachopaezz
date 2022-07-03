@@ -19,5 +19,6 @@
 ![dino](https://user-images.githubusercontent.com/76179696/142251827-6b6c4dd8-2ba5-4f18-8600-1789761ab093.gif)
 
 <h2>
-  Keep in touch! <a href="https://ignaciopaez.vercel.app/">Ignacio</a>,
+  Keep in touch! 
+  <br><a href="https://ignaciopaez.vercel.app/">Ignacio</a>.</br>
 </h2>
