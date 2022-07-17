@@ -2,7 +2,8 @@
 <h1>
   Hi there! 👋👩‍💻<br>
   my name is <a href="https://ignaciopaez.vercel.app/">Ignacio</a>, <br>
-  <b>Software Developer, Industrial Designer</b>, and <b>Maker based in Argentina</b>.
+  <b>Software Developer, Industrial Designer</b>, <br>
+  and <b>Maker based in Argentina</b>.
 </h1>
 
 <h3>
@@ -15,5 +16,4 @@
 
 <h2>
   Keep in touch! 
-  <br><a href="https://ignaciopaez.vercel.app/">Ignacio</a>.</br>
 </h2>
