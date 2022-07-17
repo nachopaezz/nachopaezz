@@ -4,7 +4,7 @@
   my name is <a href="https://ignaciopaez.vercel.app/">Ignacio</a>, <br>
   <b>Software Developer<b/>, <b>Industrial Designer</b>, and <b>Maker</b> <br> 
   based in <b>Argentina</b>.
-</h1> <
+</h1> 
 
 <h3>
   You can also follow me on <a href="https://twitter.com/nachopaezzz">Twitter</a> and <a href="https://www.linkedin.com/in/ignaciopaezz/">Linkedin</a>,
