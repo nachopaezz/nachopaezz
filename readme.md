@@ -7,7 +7,7 @@
   <b>Software Developer, Industrial Designer</b>, and <b>Maker</b> based in <b>Argentina</b>.
 </h1>
 
-![Imagen GitHub](https://user-images.githubusercontent.com/76179696/142248946-ed9910f3-41b9-4e10-a1c4-cff7eb3d5f73.jpg)
+![Imagen GitHub](https://i.ibb.co/gjSLFGR/Imagen-Git-Hub-2.jpg)
 
 
 <h3>
