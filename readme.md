@@ -14,7 +14,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ngalaiko/count.svg" />
+  <img src="https://profile-counter.glitch.me/nachopaezz/count.svg" />
 </p>
 
 ![dino](https://user-images.githubusercontent.com/76179696/142251827-6b6c4dd8-2ba5-4f18-8600-1789761ab093.gif)
