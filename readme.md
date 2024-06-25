@@ -1,8 +1,7 @@
 # Hi there! 👋
 
 ## My name is [Ignacio](https://ignaciopaez.vercel.app/)
-
-### Software Developer, Industrial Designer, and Maker based in Argentina.
+## Software Developer, Industrial Designer, and Maker based in Argentina.
 
 ---
 
