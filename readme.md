@@ -12,6 +12,11 @@
   <a href="https://www.youtube.com/channel/UCtGBCJyVTTrEOJK3pSUXQIw">YouTube</a> and <a href="https://www.behance.net/ignaciopaez">Behance</a>.
 </h3>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ngalaiko/count.svg" />
+</p>
+
 ![dino](https://user-images.githubusercontent.com/76179696/142251827-6b6c4dd8-2ba5-4f18-8600-1789761ab093.gif)
 
 <h2>
