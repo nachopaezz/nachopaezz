@@ -8,9 +8,11 @@
 
 ## Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/ignaciopaezz/)
-- [YouTube](https://www.youtube.com/channel/UCtGBCJyVTTrEOJK3pSUXQIw)
-- [Behance](https://www.behance.net/ignaciopaez)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ignaciopaezz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCtGBCJyVTTrEOJK3pSUXQIw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.behance.net/ignaciopaez"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+</p>
 
 ---
 
