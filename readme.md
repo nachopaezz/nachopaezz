@@ -1,6 +1,6 @@
 ## [Ignacio](https://ignaciopaez.vercel.app/)
 
-# Software Developer | Industrial Designer | Builder
+<p>Software Developer | Industrial Designer | Builder</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ignaciopaezz/"><img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" alt="LinkedIn"/></a>
