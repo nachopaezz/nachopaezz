@@ -1,7 +1,5 @@
-# Hi there! 👋
-
-## My name is [Ignacio](https://ignaciopaez.vercel.app/),
-## Software Developer, Industrial Designer, and Maker based in Argentina.
+## [Ignacio](https://ignaciopaez.vercel.app/),
+## Software Developer | Industrial Designer | Builder
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ignaciopaezz/"><img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" alt="LinkedIn"/></a>
@@ -21,5 +19,3 @@
 ![dino](https://user-images.githubusercontent.com/76179696/142251827-6b6c4dd8-2ba5-4f18-8600-1789761ab093.gif)
 
 ---
-
-## Keep in touch! 🤜🤛
