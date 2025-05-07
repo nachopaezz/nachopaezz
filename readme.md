@@ -1,1 +1,1 @@
- [naxopaezz](https://ignaciopaez.com/) - software developer, industrial designer + builder.
+ [naxopaezz](https://ignaciopaez.com/) - software developer, industrial designer + builder
